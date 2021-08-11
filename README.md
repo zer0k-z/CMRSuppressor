@@ -1,7 +1,7 @@
 # CMultiplayRules Console Suppressor
 
 
-![Downloads](https://img.shields.io/github/downloads/zer0k-z/CMRSurpressor/total?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/zer0k-z/CMRSurpressor?style=flat-square) ![Open issues](https://img.shields.io/github/issues/zer0k-z/CMRSurpressor?style=flat-square) ![Closed issues](https://img.shields.io/github/issues-closed/zer0k-z/CMRSurpressor?style=flat-square) ![Size](https://img.shields.io/github/repo-size/zer0k-z/CMRSurpressor?style=flat-square) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/zer0k-z/CMRSurpressor/Compile%20with%20SourceMod?style=flat-square)
+![Downloads](https://img.shields.io/github/downloads/zer0k-z/CMRSuppressor/total?style=flat-square) ![Last commit](https://img.shields.io/github/last-commit/zer0k-z/CMRSuppressor?style=flat-square) ![Open issues](https://img.shields.io/github/issues/zer0k-z/CMRSuppressor?style=flat-square) ![Closed issues](https://img.shields.io/github/issues-closed/zer0k-z/CMRSuppressor?style=flat-square) ![Size](https://img.shields.io/github/repo-size/zer0k-z/CMRSuppressor?style=flat-square) ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/zer0k-z/CMRSuppressor/Compile%20with%20SourceMod?style=flat-square)
 
 ## Description ##
 **Note**: Only works for CS:GO!
