@@ -57,7 +57,7 @@ jobs:
         working-directory: ./build
 
       - name: Compress package
-        run: zip -9rq ../cmrsurpressor.zip *
+        run: zip -9rq ../cmrsuppressor.zip *
         working-directory: ./build
         
       - name: Set Commit Hash
