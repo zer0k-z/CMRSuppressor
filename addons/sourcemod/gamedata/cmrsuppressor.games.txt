@@ -1,0 +1,42 @@
+"Games"
+{
+    "csgo"
+    {
+		"Addresses"
+		{
+			"ConVarSetDefaultValue"
+			{
+				"windows"
+				{
+					"signature" "ConVarSetDefaultValue"
+				}
+				"linux"
+				{
+					"signature" "ConVarSetDefaultValue"
+				}
+			}
+		}
+		"Signatures"
+        {
+            "ConVarSetDefaultValue"
+            {
+				"library"	"server"
+				"windows"	"\x8B\x07\x8B\xCF\xFF\x77\x08\xFF\x50\x0C"
+				"linux"		"\x8B\x8D\xEC\xFE\xFF\xFF\x8B\x85\xE8\xFE\xFF\xFF\x8B\x49\x20\x8B\x10\x89\x04\x24\x89\x4C\x24\x04\xFF\x12"
+            }
+        }
+        "Offsets"
+        {
+            "ConVarSetDefaultValue"
+            {
+                "windows"   "10"
+                "linux"     "26"
+            }
+            "ConVarMsg"
+            {
+                "windows"   "21"
+                "linux"     "31"
+            }
+        }
+    }
+}
