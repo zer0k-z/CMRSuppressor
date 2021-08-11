@@ -33,7 +33,7 @@ jobs:
 
       - name: Compile Plugins
         run: |
-          for file in cmrsurpressor*.sp
+          for file in cmrsuppressor*.sp
           do
             echo -e "\nCompiling $file..."
             spcomp -w234 -O2 -v2 -i include $file
@@ -71,7 +71,7 @@ jobs:
           tag_name: workflow-build${{ github.run_number }}
           name: Build ${{ steps.commit_info.outputs.sha_short  }}
           files: |
-            cmrsurpressor.zip
+            cmrsuppressor.zip
           draft: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
