@@ -11,7 +11,7 @@ public Plugin myinfo =
 {
 	name = "CMultiplayRules Console Suppressor",
 	author = "zer0.k",
-	description = "Surpress CMultiplayRules constructor messages in console",
+	description = "Suppress CMultiplayRules constructor messages in console",
 	version = "1.0",
 	url = "https://github.com/zer0k-z/CMRSuppressor"
 };

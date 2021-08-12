@@ -6,7 +6,7 @@
 ## Description ##
 **Note**: Only works for CS:GO!
 
-Surpress CMultiplayRules constructor messages in console, which are a massive list of convars and their default value being printed to console every map change. 
+Suppress CMultiplayRules constructor messages in console, which are a massive list of convars and their default value being printed to console every map change. 
 
 This exists because [Cleaner](https://github.com/Accelerator74/Cleaner) doesn't seem to have regex, so this will do.
 
@@ -18,4 +18,4 @@ On Linux, some messages will not be seen by SourceMod and MetaMod. Use [this](ht
 
 ## Installation ##
 1. Grab the latest release from the release page and unzip it in your `csgo` folder.
-2. Restart the server or type `sm plugins load cmrsurpressor` in the console to load the plugin.
+2. Restart the server or type `sm plugins load cmrsuppressor` in the console to load the plugin.
